@@ -1,0 +1,36 @@
+@media screen  and (max-width:1000px){
+    /* border-style: ::after; */
+    body {
+        background-color: #fcfcfc;
+    }
+    header
+    {
+        overflow: hidden;
+    }
+
+    nav
+    {
+        /* height: 190px; */
+flex-direction: column;
+height: 121px;
+    }
+    nav img
+    {
+        padding: 1px;
+        padding-left: 21px;
+        width: 92px;
+    }
+    .search input {
+        width: 168px;
+    }
+    .unspla img
+    {
+        width: 389px;
+    }
+   .acc
+   {
+       margin: 18px;
+       overflow: scroll;
+       height: 21vh;
+   }
+}
